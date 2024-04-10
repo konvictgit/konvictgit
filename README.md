@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/abhishekyadav" target="blank"
+  <a href="https://twitter.com/@abhishek__devop" target="blank"
     ><img
       src="https://img.shields.io/twitter/follow/abhishekyadav?logo=twitter&style=for-the-badge"
       alt="abhishekyadav"
