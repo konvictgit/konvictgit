@@ -8,7 +8,7 @@
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 />
 
-👋 Hi, I'm Abhishek Yadav, a Software Engineer passionate about building scalable and efficient web applications. My expertise lies in full-stack development, with a strong focus on backend technologies like Node.js, JavaScript, and TypeScript, complemented by experience with React.js for the frontend[cite: 7, 16]. I have a proven track record of architecting solutions with PostgreSQL and Redis, and integrating third-party APIs to enhance functionality.
+👋 Hi, I'm Abhishek Yadav, a Software Engineer passionate about building scalable and efficient web applications. My expertise lies in full-stack development, with a strong focus on backend technologies like Node.js, JavaScript, and TypeScript, complemented by experience with React.js for the frontend. I have a proven track record of architecting solutions with PostgreSQL and Redis, and integrating third-party APIs to enhance functionality.
 
 🚀 Throughout my career at companies like Mihuru, I've delivered impactful results, such as architecting a B2C loan application portal that led to a **30% decrease in application abandonment** and a **20% increase in loan approval rates**. At Abscissa Technologies, I'm currently focused on automating software hiring workflows by building modular backends and real-time analytics dashboards.
 
