@@ -14,7 +14,7 @@
 
 💼 I'm driven by a desire to solve complex problems and create user-centered solutions that contribute to business objectives.
 
-📫 Let's connect! You can reach me at **abhishekyadav.office.work@gmail.com**. I'm eager to collaborate on innovative projects.
+📫 Let's connect! You can reach me at **abhishek_yadav_work@outlook.com**. I'm eager to collaborate on innovative projects.
 
 
 ## 🌐 Socials:
